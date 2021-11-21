@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/ba524efbeefce16b6b5ea.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/whatsAPP-NEW-DUMIHBOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -65,7 +65,7 @@ CREATED BY DUMINDU
 ## Helpers
   <div align="center">
     
-![DUMINDU](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100) <br>
+![DUMINDU](https://telegra.ph/file/ba524efbeefce16b6b5ea.jpg?size=100) <br>
 Base, owner |
   </div>
     
