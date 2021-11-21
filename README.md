@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/whatsAPP-NEW-DUMIHBOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 DUMINDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/dumibro"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 DUMINDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/dumibro"> DUMINDU</a> This projec
 
   <p align="center">
   <a href="https://github.com/dumibro">
-    <img src="https://img.shields.io/github/repo-size/TRexWa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/dumibro/whatsAPP-NEW-DUMIHBOT?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/dumibro/followers"><img title="Followers" src="https://img.shields.io/github/followers/dumibro?color=blue&style=flat-square"></a>
 <a href="https://github.com/dumibro/whatsAPP-NEW-DUMIHBOT/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/dumibro/whatsAPP-NEW-DUMIHBOT?color=blue&style=flat-square"></a>
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRexWa&repo=T-REX&theme=nightowl)](https://github.com/TRexWa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumibro&repo=WhatsAPP-NEW-DUMIHBOT&theme=nightowl)](https://github.com/dumibro/)
   </div>
     
 ## Setup
@@ -44,7 +44,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/dumibro/whatsAPP-NEW-DUMIHBOT)
      </div>
